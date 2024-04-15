@@ -2,7 +2,7 @@
 
 Te dejo por aqui la mas o menos la infraestructura que imagine en relacion a los lineamientos del primer proyecto. Me surgen diferentes dudas que te dejo por aqui. 
 
-![infraestructura-proyecto](![infraestructura_proyecto_v2wt](https://github.com/Ale-source-prog/proyecto-final/assets/125092085/d6419552-95bb-4bcf-8803-6634baeae816)
+(![infraestructura_proyecto_v2wt](https://github.com/Ale-source-prog/proyecto-final/assets/125092085/d6419552-95bb-4bcf-8803-6634baeae816)
 
 #### ------------------------
 
